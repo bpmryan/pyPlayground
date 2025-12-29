@@ -1,4 +1,6 @@
 # Lesson 3
 # Function that receives user input
 name = input('What is your name? ')
-print('Hi ' + name)
+favColor = input('What is your favorite color? ')
+print(name + ' likes ' + favColor)
+
